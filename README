@@ -1,0 +1,3 @@
+melb-journey-back-end
+
+A Google App Engine application written in Python that serves as the back-end component of the Melbourne Journey iPhone app. It collects data from the Metlink web site [http://metlinkmelbourne.com.au/]. It uses the ClientForm Python module for handling HTML forms.
